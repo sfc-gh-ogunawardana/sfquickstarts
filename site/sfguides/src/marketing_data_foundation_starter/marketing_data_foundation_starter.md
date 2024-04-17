@@ -25,7 +25,7 @@ This solution was inspired by how Snowflake runs its own end-to-end Marketing wo
 
 Slide deck with more context on the overall solution: Marketing Data Foundation Starter for Customer 360 & Campaign Intelligence.
 
-### Problem Space
+## Problem Space
 
 In the fast-evolving marketing landscape, the emphasis on data-driven strategies has become more pronounced than ever. A significant trend is the increase in Martech investments, with 63% of Chief Marketing Officers (CMOs) planning to increase their spending within the next 12 months. Such investments are crucial for enhancing customer engagement, refining marketing strategies, and driving sales through advanced data analysis.
 
@@ -35,7 +35,7 @@ Additionally, the industry is shifting towards first-party data ownership, a mov
 
 Two types of first-party data are pivotal in these efforts: Customer 360 Data and Campaign Intelligence. The former strives to provide a holistic view of the customer by integrating and managing comprehensive data. In contrast, Campaign Intelligence focuses on data related to marketing campaigns, aiming to optimize performance and strategy. These elements are fundamental to successful data-driven marketing, underscoring the need for sophisticated data management and analytics capabilities.
 
-### Solution Space
+## Solution Space
 
 #### Context
 
